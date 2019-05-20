@@ -1,0 +1,7 @@
+# игнорирование ключей авторизации
+keys/
+
+# игнорирование локального конфига
+config/local.txt
+
+someDir/innerDir3/innerFile31.txt
